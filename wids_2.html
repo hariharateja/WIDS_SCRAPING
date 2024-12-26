@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Review Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="platform-header">
+        <h1>Movie Review Platform</h1>
+    </header>
+    <main>
+        <table id="movie-table" border="1" cellspacing="0" cellpadding="5">
+            <thead>
+                <tr>
+                    <th>Movie Name</th>
+                    <th>Genre(s)</th>
+                    <th>Duration</th>
+                    <th>Release Year</th>
+                    <th>IMDB Rating</th>
+                    <th>Trailer</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="movie-row">
+                    <td class="movie-name">The Dark Knight</td>
+                    <td class="movie-genre">Action, Drama</td>
+                    <td class="movie-duration">3 hrs</td>
+                    <td class="movie-year">2008</td>
+                    <td class="movie-rating">9.0</td>
+                    <td>
+                        <iframe 
+                            src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                            allowfullscreen 
+                            title="The Dark Knight Trailer" 
+                            width="200" 
+                            height="113" 
+                            frameborder="0">
+                        </iframe>
+                    </td>
+                </tr>
+                <!-- Add additional rows for other movies -->
+            </tbody>
+        </table>
+    </main>
+</body>
+</html>
