@@ -105,7 +105,7 @@ def send_mail(diff,below_budget=True):
     server.quit()
     
 #loop that allows the program to regularly check for prices
-prev_price = 0 
+prev_price = 0
 
 while(True):
 
