@@ -4,7 +4,9 @@ Report on Wids Project
 
 First three weeks ….
 
-We started the first few weeks with an introduction to some languages like Python, HTML, CSS, JavaScript and many libraries for Python, such as pandas,numpy, matplotlib, for plotting graphs using the data files, etc. Those were very interesting to do. After that, we were given one week to complete the assignments and complete the incomplete work.
+We started the first few weeks with an introduction to some languages like Python, HTML, CSS, JavaScript 
+and many libraries for Python, such as pandas,numpy, matplotlib, for plotting graphs using the data files, etc.
+Those were very interesting to do. After that, we were given one week to complete the assignments and complete the incomplete work.
 
 	
 Now comes the final project,
